@@ -12,7 +12,7 @@ const Hero = () => {
             <h5>Welcome to my personal portfolio..</h5>
             <h6>Freelance Frontend & Backend Developer</h6>
 
-            <a href='./assets/Quotation_2.pdf' target='_blank'>
+            <a href='./Quotation_2.pdf' target='_blank'>
 <button className='btn btn-primary'>Download CV</button>
 </a>            <button className='btn btn-primary'><Link to='contact'>Contact Me</Link></button>
 
