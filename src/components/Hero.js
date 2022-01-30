@@ -1,6 +1,6 @@
 import React from 'react';
 import {Link} from 'react-scroll'
-import fike from '.,/assets/Quotation_2.pdf';
+import fike from '../assets/Quotation_2.pdf';
 import './Herostyles.css';
 const Hero = () => {
   return (
