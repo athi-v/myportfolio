@@ -1,0 +1,19 @@
+footer {
+    background-color: #171729;
+    font-family: 'Poppins';
+    color: #fff;
+    text-align: center;
+}
+footer .container-fluid {
+    padding: 1% 10%;
+}
+
+footer .centers {
+    margin: 1px;
+}
+
+@media screen and (max-width:920px) {
+    footer .container-fluid {
+        padding: 5% 10%;
+    }  
+}

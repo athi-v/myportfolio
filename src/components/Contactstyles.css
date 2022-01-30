@@ -1,0 +1,21 @@
+.contact { 
+  background-color: #171729;
+  font-family: 'Poppins';
+  color: #fff;
+  text-align: center;
+  }
+  
+  .contact .container-fluid {
+    padding: 5% 10%;
+  }
+
+  .contact h1 {
+    font-weight: 700;
+    line-height: 2;
+    }
+    .contact .icon {
+      font-size: 25px;
+    }
+@media screen and (max-width:920px) {
+    
+}

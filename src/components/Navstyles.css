@@ -1,0 +1,62 @@
+header {
+    background-color: #171729;
+    font-family: 'Poppins';
+    color: #fff;
+
+}
+
+header .container-fluid {
+    padding: 1% 6%;
+}
+header .navbar-brand {
+    font-weight: 500;
+    font-size: 1.6rem;
+    cursor: pointer;
+}
+
+header .nav-link {
+    margin-left: 40px;
+    cursor: pointer;
+}
+header .offcanvas-header {
+    background-color: #171729;
+    font-family: 'Poppins';
+    color: #fff;
+}
+header .offcanvas-body
+{
+    background-color: #171729;
+    border: #171729;
+    font-family: 'Poppins';
+    color: #fff;
+    text-align: center;
+    line-height: 5;
+    font-size: 1.2rem;
+}
+header .btn-close {
+    color: #fff;
+}
+header .btn {
+    background: teal;
+    border:teal;
+    border-radius: 30px;
+    width: 150%;
+    margin-top: 13px;
+}
+header .navbar-toggler {
+border: none;
+
+}
+header .icon {
+    border: none;
+    color: #fff;
+    font-size: 2rem;
+}
+
+
+header .strikes {
+
+    text-decoration: underline teal;
+    
+    
+}

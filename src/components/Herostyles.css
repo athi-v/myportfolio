@@ -1,0 +1,44 @@
+.hero {
+    background-color: #171729;
+    font-family: 'Poppins';
+    color: #fff;
+}
+
+.hero .container-fluid {
+    padding: 5% 10%;
+}
+
+.hero h1 {
+font-weight: 700;
+line-height: 2;
+}
+.hero h3 {
+    font-weight: 600;
+
+}
+
+.hero h6 {
+    font-weight: 700;
+    line-height: 3;
+
+}
+.hero .container-fluid {
+    padding: 5% 10%;
+
+}
+.hero .btn {
+    background: teal;
+    border:teal;
+    border-radius: 30px;
+    width: 40%;
+    margin-top: 25px;
+    margin-right: 25px;
+}
+
+@media screen and (max-width:620px) {
+    .hero {
+  
+        height: 50vh;
+           } 
+    
+}

@@ -1,0 +1,44 @@
+.project {
+    background-color: #171729;
+    font-family: 'Poppins';
+    color: #fff;
+  }
+
+.project .container-fluid {
+    padding: 5% 10%;
+    align-content: center;
+}
+
+.project h1 {
+    font-weight: 700;
+    text-align: center;
+}
+.project .btn {
+    background: teal;
+    border:teal;
+    border-radius: 30px;
+    width: 40%;
+    margin-top: 25px;
+    margin-right: 25px;
+}
+
+.project .web-col {
+    padding: 25px;
+}
+
+.project .btn:hover {
+box-shadow: black;
+}
+.project .card {
+    width: 18rem;
+    border: 1px solid #fff;
+    background-color: #171729;
+    text-align: center;
+}   
+
+@media screen and (max-width:920px) {
+    .project .web-col {
+        padding: 35px;
+    }
+}
+

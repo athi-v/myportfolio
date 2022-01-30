@@ -1,0 +1,27 @@
+.about {
+    background-color: #171729;
+    font-family: 'Poppins';
+    color: #fff;
+}
+
+
+.about .container-fluid {
+    padding: 5% 10%;
+    align-content: center;
+}
+
+.about h1 {
+font-weight: 700;
+line-height: 2;
+text-align: center;
+}
+
+.about .bar {
+text-decoration: underline;
+    border: 5px solid teal;
+
+}
+
+.about p {
+    text-align: justify;
+}
