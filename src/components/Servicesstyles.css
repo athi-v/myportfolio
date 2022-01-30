@@ -6,11 +6,31 @@
 
   
 .services .container-fluid {
-    padding: 5% 10%;
+    padding: 5% 18%;
+
+
 }
 .services h1 {
     font-weight: 700;
     text-align: center;
+}
+
+.services .web {
+    padding: 25px;
+align-self: center;
+}
+.services .cards {
+    width: 18rem;
+    border: 1px solid #fff;
+    background-color: #171729;
+    text-align: center;
+    align-items: center;
+    border-radius: 25px;
+    padding: 10px;
+    justify-content: center;
+}
+.services .cards:hover {
+    box-shadow: 0 8px 16px 0 teal;
 }
 .services h3 {
     font-weight: 600;
@@ -27,8 +47,9 @@
 }
 
 @media screen and (max-width:620px) {
-    .services {
-  
-        height: 50vh;
-           }    
+    .services .container-fluid {
+        padding: 5% 10%;
+    
+    
+    }  
 }

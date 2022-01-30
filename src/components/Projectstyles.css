@@ -3,15 +3,33 @@
     font-family: 'Poppins';
     color: #fff;
   }
+  .project h1 {
+    font-weight: 700;
+    line-height: 2;
+    text-align: center;
+    }
 
 .project .container-fluid {
     padding: 5% 10%;
     align-content: center;
 }
 
-.project h1 {
-    font-weight: 700;
+.project .card h1 {
+    font-weight: 900;
     text-align: center;
+    margin: auto;
+}
+.project .h6 {
+    margin: auto;
+}
+
+.project .card-body .h3 {
+    font-size: 25rem;
+}
+
+.project .card .icons {
+    font-size: 1.0rem;
+    margin: auto;
 }
 .project .btn {
     background: teal;
@@ -26,7 +44,8 @@
     padding: 25px;
 }
 
-.project .btn:hover {
+
+.project .card .btn:hover {
 box-shadow: black;
 }
 .project .card {
@@ -34,7 +53,19 @@ box-shadow: black;
     border: 1px solid #fff;
     background-color: #171729;
     text-align: center;
+    border-radius: 25px;
 }   
+.project .card .text{
+    text-align: left;
+    font-size: 0.7rem;
+    line-height: 1;
+}
+
+.project .card .text-center{
+    text-align: left;
+    font-size: 0.7rem;
+    line-height: 1;
+}
 
 @media screen and (max-width:920px) {
     .project .web-col {

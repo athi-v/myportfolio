@@ -13,6 +13,7 @@ const About = () => {
      <p>
      I love to create. Simply building or designing something from concept to release gives me a thrill I just cannot explain. Being a creative means being able to express myself and leaving a small part of me, a small part of my expression of self in every single thing I create.
      </p>
+
         </div>
     </div>
 </div>
