@@ -39,7 +39,18 @@
     margin-top: 25px;
     margin-right: 25px;
 }
+.project a {
+     text-decoration: none;
+     color:grey;
+ }
 
+.project a:hover {
+     color: #fff;
+     text-decoration: underline teal 1px;
+ }
+.project .aligns {
+    text-align: center;
+}
 .project .web-col {
     padding: 25px;
 }

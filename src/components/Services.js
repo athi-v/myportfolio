@@ -15,7 +15,6 @@ const Services = () => {
             <h3>Frontend <br/><FaHtml5 className='icon' /> <FaCss3 className='icon' /> <FaReact className='icon'/></h3>
             <p className='just'>Experience with HTML, CSS and ReactJs</p>
             <p className='just'>Ability work CSS frameworks such as Bootstrap or Tailwind</p>
-            <p className='just'>Ability to work with UI such as Material UI</p>
             </div>
             </div>
 
@@ -24,7 +23,7 @@ const Services = () => {
             <div className=' web col-lg-6'>
             <div className='cards'>
             <h3>Backend<br/><FaNode className='icon'/> <SiMongodb className='icon'/></h3> 
-            <p className='just'>Experience with NodeJs and MongDB</p>
+            <p className='just'>Experience with NodeJs</p>
             <p className='just'>Abilty to work with APIs</p>
             <p className='just'>I can deploy websites to Netlify, Heroku and other hosting companies using Git commands</p>
             </div>
