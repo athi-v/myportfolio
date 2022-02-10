@@ -8,11 +8,10 @@ const About = () => {
         <div className='content'>
      <h1>About Me</h1>
      <p>
-     I am an enthusiast with a relentless curiosity to learn, discover and innovate. My biggest committment lies in creating, educating and empowering. I believe empowerment is the true key to unlocking potential.
+     I am an adaptable, innovative and fast learner with a number of skills. I am looking to develop my expertise in new concept development and validation within a forward thinking company. I am also a goal oriented, honest, friendly and a hardworking person who prides himself with fixed and uncompromised values. 
      </p>
      <p>
-     I love to create. Simply building or designing something from concept to release gives me a thrill I just cannot explain. Being a creative means being able to express myself and leaving a small part of me, a small part of my expression of self in every single thing I create.
-     </p>
+     I am always open to learning new things and growing as an individual, this includes me going the extra mile to the best in every challenge that is thrown my way.     </p>
 
         </div>
     </div>
